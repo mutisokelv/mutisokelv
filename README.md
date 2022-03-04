@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mutisokelv
-- 👀 I’m interested in UX Design
-- 🌱 I’m currently learning Design Strategy
-- 💞️ I’m looking to collaborate on UX Design
-- 📫 How to reach me https://www.linkedin.com/in/mutisokelv/
+- 👋 Hi, I’m Kelvin Mutiso
+- 📫 Check me out https://www.thatguykelv.design/
 
 <!---
 mutisokelv/mutisokelv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
